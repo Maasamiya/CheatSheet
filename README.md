@@ -1,4 +1,4 @@
-# CheatShee
+# CheatSheet
 
 ## iTerm2
 
