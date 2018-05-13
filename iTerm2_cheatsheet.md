@@ -2,39 +2,39 @@ Tabs and Windows
 ================
 **Function** | **Shortcut**
 -------- | --------
-Fullscreen | `⌘`+ `Enter`
-Previous Tab | `⌘`+ `Left Arrow`
-Next Tab | `⌘`+ `Right Arrow`
-Go to Tab | `⌘` + `Number`
-Go to Window | `⌘` + `Option` + `Number`
+フルスクリーン | `⌘`+ `Enter`
+前のタブに戻る | `⌘`+ `Left Arrow`
+次のタブに移動 | `⌘`+ `Right Arrow`
+指定した番号のタブに移動 | `⌘` + `Number`
+指定した番号のウィンドウに移動 | `⌘` + `Option` + `Number`
 Go to Split Pane by Direction | `⌘` + `Option` + `Arrow`
 Go to Split Pane by Order of Use | `⌘` + `]` , `⌘` + `[`
-Split Window Horizontally (same profile) | `⌘` + `D`
-Split Window Vertically (same profile) | `⌘` + `d`
-Split Window Horizontally (new profile) | `Option` + `⌘` + `H`
-Split Window Vertically (new profile) | `Option` + `⌘` + `V`
-Set Mark | `⌘` + `M`
-Jump to Mark | `⌘` + `J`
+ウィンドウを水平に分割(同じプロファイル) | `⌘` + `D`
+ウィンドウを垂直に分割(同じプロファイル)  | `⌘` + `d`
+ウィンドウを水平に分割((新しいプロファイル) | `Option` + `⌘` + `H`
+ウィンドウを水平に分割((新しいプロファイル)  | `Option` + `⌘` + `V`
+マークをセット| `⌘` + `M`
+マークに移動 | `⌘` + `J`
 
 Basic Moves
 ===========
 **Function** | **Shortcut**
 -------- | --------
-Move back one character | `Ctrl` + `b`
-Move forward one character | `Ctrl` + `f`
-Delete current character | `Ctrl` + `d`
-Delete previous character | `Backspace`
-Undo | `Ctrl` + `-`
+一文字分戻る | `Ctrl` + `b`
+一文字分進む | `Ctrl` + `f`
+今の位置の文字を削除 | `Ctrl` + `d`
+前の位置の文字を削除 | `Backspace`
+取り消し | `Ctrl` + `-`
 
 Moving Faster
 =============
 **Function** | **Shortcut**
 -------- | --------
-Move to the start of line | `Ctrl` + `a`
-Move to the end of line | `Ctrl` + `e`
-Move forward a word | `Option` + `f`
-Move backward a word | `Option` + `b`
-Clear the screen | `⌘` + `k`
+行の冒頭に移動 | `Ctrl` + `a`
+行末に移動 | `Ctrl` + `e`
+一単語分進む | `Option` + `f`
+一単語分戻る | `Option` + `b`
+スクリーンをクリア | `⌘` + `k`
 
 COPY and Paste
 =============
